@@ -1,6 +1,6 @@
   The repo helps to extract intensities around particular voxel from T1/T2 MRI data for analysing data (COBRE dataset).
   
-  We extract intensities from particular coordinate and +-3 adjacent voxels in each direction ( 7*7*7 voxels cube).
+  We extract intensities from particular coordinate and +-3 adjacent voxels in each direction ( 7x7x7 voxels cube).
   
   After that we intersect this  voxels cube with masks from White Matter (WM), Gray Matter (GM) and subcortical regions .
  
