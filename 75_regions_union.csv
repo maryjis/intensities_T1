@@ -1,0 +1,76 @@
+name,mni_x,mni_y,mni_z,col,region,area,region.area,FS
+39 Frontopolar (BA10fp),9,69,4,39,39 Frontopolar (BA10fp),Associative cortex,Associative Cortex,GM
+38 Anterior Prefrontal (BA10),9,66,18,38,38 Anterior Prefrontal (BA10),Associative cortex,Associative Cortex,GM
+46 Prefrontal Medial (BA10m),2,66,14,46,46 Prefrontal Medial (BA10m),Associative cortex,Associative Cortex,GM
+7  Orbitofrontal (BA47),20,41,-14,7,7  Orbitofrontal (BA47),Associative cortex,Associative Cortex,GM
+34 Dorsolateral Prefrontal (BA9),12,41,46,34,34 Dorsolateral Prefrontal (BA9),Associative cortex,Associative Cortex,GM
+35 Dorsolateral Prefrontal Medial (BA9m),2,41,32,35,35 Dorsolateral Prefrontal Medial (BA9m),Associative cortex,Associative Cortex,GM
+40 Cingulate Anterior (BA32g),2,41,14,40,40 Cingulate Anterior (BA32g),Limbic cortex,Limbic Cortex,GM
+44 Dorsolateral Prefrontal (BA46),40,41,14,44,44 Dorsolateral Prefrontal (BA46),Associative cortex,Associative Cortex,GM
+"45 Ventrolateral Prefrontal, Broca (BA45)",51,27,0,45,"45 Ventrolateral Prefrontal, Broca (BA45)",Associative cortex,Associative Cortex,GM
+50 Orbitofrontal (BA11),12,41,-20,50,50 Orbitofrontal (BA11),Associative cortex,Associative Cortex,GM
+21 FEF Lateral (BA8),40,17,46,21,21 FEF Lateral (BA8),Secondary cortex,Secondary Cortex,GM
+23 Insular Anterior Cortex,33,17,0,23,23 Insular Anterior Cortex,Associative cortex,Associative Cortex,GM
+"32 Ventrolateral Prefrontal, Broca (BA44)",51,17,22,32,"32 Ventrolateral Prefrontal, Broca (BA44)",Associative cortex,Associative Cortex,GM
+36 FEF Medial (BA8m),2,17,56,36,36 FEF Medial (BA8m),Secondary cortex,Secondary Cortex,GM
+43 Temporopolar (BA38),33,14,-28,43,43 Temporopolar (BA38),Associative cortex,Associative Cortex,GM
+49 Cingulate Anterior (BA32),2,17,46,49,49 Cingulate Anterior (BA32),Limbic cortex,Limbic Cortex,GM
+56 Nucleus Accumbens,6,9,-10,56,56 Nucleus Accumbens,Basal Ganglia,Basal Ganglia,SubCtx
+71 External Capsule,23,20,4,71,71 External Capsule,White_matter,White Matter,SubCtx
+73 Corpus Callosum Anterior,2,17,18,73,73 Corpus Callosum Anterior,White_matter,White Matter,SubCtx
+57 Caudate,9,17,4,57,57 Caudate,Basal Ganglia,Basal Ganglia,SubCtx
+22 Premotor Medial (BA6m),6,7,60,22,22 Premotor Medial (BA6m),Secondary cortex,Secondary Cortex,GM
+30 Premotor Anterior Lateral (BA6a),44,7,46,30,30 Premotor Anterior Lateral (BA6a),Secondary cortex,Secondary Cortex,GM
+42 Cingulate Subcallosal (BA25),6,7,-14,42,42 Cingulate Subcallosal (BA25),Limbic cortex,Limbic Cortex,GM
+48 Cingulate Anterior (BA24),2,7,36,48,48 Cingulate Anterior (BA24),Limbic cortex,Limbic Cortex,GM
+51 Piriform Cortex,23,0,-17,51,51 Piriform Cortex,Primary cortex,Primary Cortex,GM
+1  Cerebellar Grey Matter,48,-56,-34,1,1  Cerebellar Grey Matter,Cerebellum,Cerebellar Grey Matter,SubCtx
+59 Deep Nuclei - Dentate Nucleus,12,-49,-31,59,59 Deep Nuclei - Dentate Nucleus,Cerebellum,Cerebellar White Matter,SubCtx
+75 Cerebellar White Matter,20,-56,-38,75,75 Cerebellar White Matter,Cerebellum,Cerebellar White Matter,SubCtx
+12 Premotor Posterior (BA6p),23,-11,60,12,12 Premotor Posterior (BA6p),Secondary cortex,Secondary Cortex,GM
+13 Premotor Precentral (BA6prc),40,-11,53,13,13 Premotor Precentral (BA6prc),Secondary cortex,Secondary Cortex,GM
+15 1ary Motor (BA4),48,-11,46,15,15 1ary Motor (BA4),Primary cortex,Primary Cortex,GM
+18 1ary Somatosensory (BA3/1/2),58,-11,36,18,18 1ary Somatosensory (BA3/1/2),Primary cortex,Primary Cortex,GM
+"26 2ary Auditory, language (BA22a)",58,-11,4,26,"26 2ary Auditory, language (BA22a)",Secondary cortex,Secondary Cortex,GM
+33 Anterior Inferior Temporal (BA20a),51,-11,-34,33,33 Anterior Inferior Temporal (BA20a),Associative cortex,Associative Cortex,GM
+37 2ary Auditory Anterior (BA21a),62,-11,-10,37,37 2ary Auditory Anterior (BA21a),Secondary cortex,Secondary Cortex,GM
+54 Entorhinal Cortex,16,-11,-31,54,54 Entorhinal Cortex,Limbic cortex,Limbic Cortex,GM
+58 Putamen,26,-11,4,58,58 Putamen,Basal Ganglia,Basal Ganglia,SubCtx
+64 Globus Pallidus,16,8,-4,64,64 Globus Pallidus,Basal Ganglia,Basal Ganglia,SubCtx
+67 Ventral Anterior Thalamus,9,-7,11,67,67 Ventral Anterior Thalamus,Thalamus,Thalamus,SubCtx
+69 Hypothalamus,0,-7,-15,69,69 Hypothalamus,Hypothalamus,Hypothalamus,SubCtx
+72 Internal Capsule,16,-11,14,72,72 Internal Capsule,White_matter,White Matter,SubCtx
+52 Amygdala,16,-11,-20,52,52 Amygdala,Limbic cortex,Limbic Cortex,SubCtx
+16 1ary Auditory (BA41/42),37,-25,11,16,16 1ary Auditory (BA41/42),Primary cortex,Primary Cortex,GM
+53 Insular Posterior Cortex,30,-25,14,53,53 Insular Posterior Cortex,Associative cortex,Associative Cortex,GM
+61 Pulvinar Thalamus,12,-25,11,61,61 Pulvinar Thalamus,Thalamus,Thalamus,SubCtx
+62 Red Nucleus,6,-25,8,62,62 Red Nucleus,Midbrain,Midbrain,SubCtx
+63 Substantia Nigra,6,-25,-17,63,63 Substantia Nigra,Basal Ganglia,Basal Ganglia,SubCtx
+"65 Hippocampus, CA1",30,-28,-14,65,"65 Hippocampus, CA1",Limbic cortex,Limbic Cortex,SubCtx
+66 Subiculum,16,-28,-10,66,66 Subiculum,Limbic cortex,Limbic Cortex,SubCtx
+8  Cingulate Posterior (BA23a),2,-25,39,8,8  Cingulate Posterior (BA23a),Limbic cortex,Limbic Cortex,GM
+47 Cingulate Posterior (BA31),2,-25,53,47,47 Cingulate Posterior (BA31),Limbic cortex,Limbic Cortex,GM
+"55 Hippocampus, CA3 / Dentate Gyrus",26,-28,-6,55,"55 Hippocampus, CA3 / Dentate Gyrus",Limbic cortex,Limbic Cortex,SubCtx
+68 Medial Dorsal Thalamus,6,-25,8,68,68 Medial Dorsal Thalamus,Thalamus,Thalamus,SubCtx
+70 Ventral Lateral Thalamus,16,-25,4,70,70 Ventral Lateral Thalamus,Thalamus,Thalamus,SubCtx
+11 2ary Auditory Posterior (BA21p),65,-32,-6,11,11 2ary Auditory Posterior (BA21p),Secondary cortex,Secondary Cortex,GM
+25 Posterior Inferior Temporal (BA20p),54,-32,-24,25,25 Posterior Inferior Temporal (BA20p),Associative cortex,Associative Cortex,GM
+74 Corpus Callosum Posterior,2,-35,18,74,74 Corpus Callosum Posterior,White_matter,White Matter,SubCtx
+2  Anterior Supramarginal (BA40a),54,-35,46,2,2  Anterior Supramarginal (BA40a),Associative cortex,Associative Cortex,GM
+9  2ary Somatosensory Cortex,48,-35,25,9,9  2ary Somatosensory Cortex,Secondary cortex,Secondary Cortex,GM
+"28 2ary Auditory, Wernicke (BA22p)",62,-35,8,28,"28 2ary Auditory, Wernicke (BA22p)",Secondary cortex,Secondary Cortex,GM
+60 Superior Colliculus,2,-35,-6,60,60 Superior Colliculus,Midbrain,Midbrain,SubCtx
+4  Anterior Superior Parietal (BA5/BA7a),33,-45,60,4,4  Anterior Superior Parietal (BA5/BA7a),Associative cortex,Associative Cortex,GM
+5  Retrosplenial (BA29/30),6,-45,11,5,5  Retrosplenial (BA29/30),Limbic cortex,Limbic Cortex,GM
+24 Cingulate Posterior (BA23p),2,-45,25,24,24 Cingulate Posterior (BA23p),Limbic cortex,Limbic Cortex,GM
+31 Supramarginal Posterior (BA40p),44,-45,53,31,31 Supramarginal Posterior (BA40p),Associative cortex,Associative Cortex,GM
+3  Posterior Superior Parietal (BA7p),30,-52,49,3,3  Posterior Superior Parietal (BA7p),Associative cortex,Associative Cortex,GM
+6  Anterior Middle Temporal (BA37-aMT),58,-52,8,6,6  Anterior Middle Temporal (BA37-aMT),Secondary cortex,Secondary Cortex,GM
+17 1ary Visual Anterior (BA17a),23,-52,-6,17,17 1ary Visual Anterior (BA17a),Primary cortex,Primary Cortex,GM
+20 Posterior Fusiform (BA37m),37,-52,-20,20,20 Posterior Fusiform (BA37m),Secondary cortex,Secondary Cortex,GM
+27 2ary/3ary Visual Anterior (BA18/19a),16,-52,4,27,27 2ary/3ary Visual Anterior (BA18/19a),Secondary cortex,Secondary Cortex,GM
+29 Precuneus (BA7m),2,-52,46,29,29 Precuneus (BA7m),Associative cortex,Associative Cortex,GM
+41 Angular (BA39),58,-52,18,41,41 Angular (BA39),Associative cortex,Associative Cortex,GM
+10 2ary/3ary Visual Posterior (BA18/19p),16,-66,4,10,10 2ary/3ary Visual Posterior (BA18/19p),Secondary cortex,Secondary Cortex,GM
+14 1ary Visual Posterior (BA17p),23,-66,-10,14,14 1ary Visual Posterior (BA17p),Primary cortex,Primary Cortex,GM
+19 Posterior Middle Temporal (BA37-pMT),48,-70,0,19,19 Posterior Middle Temporal (BA37-pMT),Secondary cortex,Secondary Cortex,GM

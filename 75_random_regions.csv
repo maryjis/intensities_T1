@@ -1,0 +1,76 @@
+num,name,mri_x,mri_y,mri_z,network,mni_x,mni_y,mni_z,tal_x,tal_y,tal_z
+39,39 Frontopolar (BA10fp),144,187,133,Default,9,69,4,7,64,7
+38,38 Anterior Prefrontal (BA10),223,23,212,Default,9,66,18,7,61,19
+46,46 Prefrontal Medial (BA10m),169,218,82,Default,2,66,14,1,61,15
+7,7  Orbitofrontal (BA47),166,77,106,Frontoparietal,20,41,-14,17,36,-11
+34,34 Dorsolateral Prefrontal (BA9),163,27,140,Default,12,41,46,10,36,42
+35,35 Dorsolateral Prefrontal Medial (BA9m),105,174,39,Default,2,41,32,1,36,30
+40,40 Cingulate Anterior (BA32g),21,172,88,Default,2,41,14,1,36,14
+44,44 Dorsolateral Prefrontal (BA46),19,233,238,Frontoparietal,40,41,14,34,36,14
+45,"45 Ventrolateral Prefrontal, Broca (BA45)",125,201,88,Frontoparietal,51,27,0,44,23,1
+50,50 Orbitofrontal (BA11),116,230,75,Default,12,41,-20,10,36,-16
+21,21 FEF Lateral (BA8),158,201,74,Default,40,17,46,34,13,41
+23,23 Insular Anterior Cortex,136,217,226,Cingulo-Opercular,33,17,0,28,13,0
+32,"32 Ventrolateral Prefrontal, Broca (BA44)",36,85,146,Auditory,51,17,22,44,13,20
+36,36 FEF Medial (BA8m),154,206,98,Frontoparietal,2,17,56,1,13,50
+43,43 Temporopolar (BA38),36,105,157,Default,33,14,-28,28,10,-24
+49,49 Cingulate Anterior (BA32),190,70,193,Frontoparietal,2,17,46,1,13,41
+56,56 Nucleus Accumbens,151,42,154,Default,6,9,-10,4,5,-9
+71,71 External Capsule,102,65,130,none,23,20,4,19,16,4
+73,73 Corpus Callosum Anterior,7,55,212,none,2,17,18,1,13,16
+57,57 Caudate,123,205,202,Frontoparietal,9,17,4,7,13,4
+22,22 Premotor Medial (BA6m),165,220,174,Language,6,7,60,4,3,53
+30,30 Premotor Anterior Lateral (BA6a),6,218,47,Default,44,7,46,38,3,40
+42,42 Cingulate Subcallosal (BA25),72,6,168,Default,6,7,-14,4,3,-12
+48,48 Cingulate Anterior (BA24),68,30,76,Cingulo-Opercular,2,7,36,1,3,32
+51,51 Piriform Cortex,11,222,189,Orbito-Affective,23,0,-17,19,-3,-15
+1,1  Cerebellar Grey Matter,58,218,159,Dorsal-attention,48,-56,-34,41,-58,-33
+59,59 Deep Nuclei - Dentate Nucleus,9,100,44,Visual1,12,-49,-31,10,-51,-30
+75,75 Cerebellar White Matter,107,65,54,none,20,-56,-38,17,-58,-37
+12,12 Premotor Posterior (BA6p),157,166,236,Dorsal-attention,23,-11,60,19,-14,52
+13,13 Premotor Precentral (BA6prc),147,133,185,Language,40,-11,53,34,-14,46
+15,15 1ary Motor (BA4),239,176,172,Somatomotor,48,-11,46,41,-14,39
+18,18 1ary Somatosensory (BA3/1/2),7,153,57,Somatomotor,58,-11,36,50,-14,31
+26,"26 2ary Auditory, language (BA22a)",36,172,121,Language,58,-11,4,50,-14,3
+33,33 Anterior Inferior Temporal (BA20a),78,181,167,Default,51,-11,-34,44,-14,-31
+37,37 2ary Auditory Anterior (BA21a),178,33,42,Default,62,-11,-10,54,-14,-10
+54,54 Entorhinal Cortex,170,46,106,Ventral-Multimodal,16,-11,-31,13,-14,-28
+58,58 Putamen,99,135,122,Cingulo-Opercular,26,-11,4,22,-14,3
+64,64 Globus Pallidus,16,142,171,Cingulo-Opercular,16,8,-4,13,4,-4
+67,67 Ventral Anterior Thalamus,156,153,94,Frontoparietal,9,-7,11,7,-10,9
+69,69 Hypothalamus,219,69,186,Default,0,-7,-15,-1,-10,-14
+72,72 Internal Capsule,202,31,216,none,16,-11,14,13,-14,11
+52,52 Amygdala,210,16,165,Somatomotor,16,-11,-20,13,-14,-19
+16,16 1ary Auditory (BA41/42),113,143,226,Somatomotor,37,-25,11,32,-28,8
+53,53 Insular Posterior Cortex,79,174,119,Somatomotor,30,-25,14,26,-28,11
+61,61 Pulvinar Thalamus,75,41,205,Frontoparietal,12,-25,11,10,-28,8
+62,62 Red Nucleus,212,120,7,Visual1,6,-25,8,4,-28,5
+63,63 Substantia Nigra,81,49,203,Frontoparietal,6,-25,-17,4,-28,-17
+65,"65 Hippocampus, CA1",97,224,107,Posterior-Multimodal,30,-28,-14,26,-30,-14
+66,66 Subiculum,11,77,77,Default,16,-28,-10,13,-30,-11
+8,8  Cingulate Posterior (BA23a),124,193,111,Cingulo-Opercular,2,-25,39,1,-28,33
+47,47 Cingulate Posterior (BA31),94,128,116,Somatomotor,2,-25,53,1,-28,45
+55,"55 Hippocampus, CA3 / Dentate Gyrus",167,150,12,Dorsal-attention,26,-28,-6,22,-30,-7
+68,68 Medial Dorsal Thalamus,76,19,18,Frontoparietal,6,-25,8,4,-28,5
+70,70 Ventral Lateral Thalamus,31,39,22,Cingulo-Opercular,16,-25,4,13,-28,2
+11,11 2ary Auditory Posterior (BA21p),223,93,161,Auditory,65,-32,-6,56,-34,-7
+25,25 Posterior Inferior Temporal (BA20p),27,165,217,Default,54,-32,-24,47,-34,-23
+74,74 Corpus Callosum Posterior,224,56,22,none,2,-35,18,1,-37,14
+2,2  Anterior Supramarginal (BA40a),12,121,91,Somatomotor,54,-35,46,47,-37,38
+9,9  2ary Somatosensory Cortex,74,145,215,Somatomotor,48,-35,25,41,-37,20
+28,"28 2ary Auditory, Wernicke (BA22p)",132,25,126,Auditory,62,-35,8,54,-37,5
+60,60 Superior Colliculus,198,236,80,Auditory,2,-35,-6,1,-37,-7
+4,4  Anterior Superior Parietal (BA5/BA7a),9,53,135,Somatomotor,33,-45,60,28,-47,50
+5,5  Retrosplenial (BA29/30),192,27,103,Frontoparietal,6,-45,11,4,-47,7
+24,24 Cingulate Posterior (BA23p),176,196,0,Frontoparietal,2,-45,25,1,-47,19
+31,31 Supramarginal Posterior (BA40p),205,71,188,Somatomotor,44,-45,53,38,-47,44
+3,3  Posterior Superior Parietal (BA7p),67,6,239,Somatomotor,30,-52,49,26,-54,40
+6,6  Anterior Middle Temporal (BA37-aMT),210,123,33,Language,58,-52,8,50,-54,4
+17,17 1ary Visual Anterior (BA17a),151,35,82,Visual1,23,-52,-6,19,-54,-8
+20,20 Posterior Fusiform (BA37m),143,212,42,Ventral-Multimodal,37,-52,-20,32,-54,-21
+27,27 2ary/3ary Visual Anterior (BA18/19a),51,65,135,Visual2,16,-52,4,13,-54,0
+29,29 Precuneus (BA7m),53,101,60,Cingulo-Opercular,2,-52,46,1,-54,37
+41,41 Angular (BA39),229,138,73,Cingulo-Opercular,58,-52,18,50,-54,13
+10,10 2ary/3ary Visual Posterior (BA18/19p),88,25,38,Visual2,16,-66,4,13,-67,0
+14,14 1ary Visual Posterior (BA17p),149,97,106,Visual1,23,-66,-10,19,-67,-13
+19,19 Posterior Middle Temporal (BA37-pMT),185,152,238,Dorsal-attention,48,-70,0,41,-71,-4
